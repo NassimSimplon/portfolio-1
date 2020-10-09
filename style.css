@@ -1,0 +1,165 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  li { 
+    float: left; 
+    
+  }
+  
+  li a {
+    display: block;
+    color:white ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    font-size: 150%;
+    
+  }
+  li {
+    border-right: 1px solid black;
+  }
+  
+  li:only-child {
+    border-right: none;
+  }
+  li :last-child{
+    border-right: none;
+  }
+  ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0; 
+    
+    
+  }
+  
+    
+    .logo { float:left; margin:7px 20px 5px 25px; 
+    width: 60px;}
+    .nass { float:right }
+    
+    h1 {position: absolute;
+      left: 90px;
+      top:130px; 
+      
+   color: whitesmoke; }
+  body { background-color:black;  }
+  .span
+  { color: white  ;
+  font-size: 40px; 
+  text-align: center; background-color: purple;;}
+  .togo{ margin: 20px 200px 50px 340px;  }
+  .jj { color: white;  margin:-300px 20px 50px 650px; }
+  .btn {
+    background-color: rgb(18, 1, 117);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  .low { color: white  ;
+  font-size: 40px; 
+  text-align: center;
+  margin-top: 100px;
+   background-color: purple;
+}
+.boy { color: white  ;
+    font-size: 35px; 
+    text-align: center; flex-wrap: wrap;
+    margin-top: 100px;
+}
+.toy { font-size: 30px; width: 30px;}
+.est { color: white  ;
+    font-size: 40px; 
+    text-align: center;
+    margin-top: 100px; ; background-color: purple;
+    }
+    table, th, td {
+        border: 3px solid rgb(155, 17, 209);
+        border-collapse: collapse;
+      }
+      
+      
+    .flex-container{
+        background-color:black;
+        border:3px solid purple; 
+        display: flex ; justify-content: space-between; margin-top: 30px;
+        
+    }
+   .imgproject1{
+            margin: 15px 0px 0px 15px; height:50; width: 400px;
+           
+       }
+       .imgproject2{
+        background-color: violet; margin-top: 15px;height:50; width: 400px
+     }
+     .imgproject3{
+         background-color: turquoise;margin: 15px 15px 0px 0px;height:50; width: 400px
+     }
+     .table2{ width: 100% ; color: white; background-color: purple
+    ;}
+.contact     { color: white  ;
+    font-size: 40px; 
+    text-align: center;
+    margin-top: 100px; ; background-color: purple;
+  }
+  .flex-container2 { background-color:black;
+    border:3px solid purple; 
+    display: flex ; justify-content: space-between;
+    }
+    
+    .contact1 {  background-color: white;margin: 15px 0px 0px 15px; height:50; width: 200px;https://www.flaticon.com/free-icon/telephone_725623?term=telephone&page=1&position=44}
+    .contact2 { margin: 15px 0px 0px 15px; height:50; width: 200px;https://stock.adobe.com/search?load_type=search&is_recent_search=&search_type=autosuggest&k=location&native_visual_search=&similar_content_id=&acp=0&aco=loca&asset_id=254622588}
+    .contact3 { margin: 15px 15px 0px 0px; height:50; width: 200px; https://stock.adobe.com/images/id/126397385?as_campaign=Flaticon&as_content=api&as_audience=srp&tduid=a52f21ea8d5850cc42f942aecf0208af&as_channel=affiliate&as_campclass=redirect&as_source=arvato}
+    .table3{ width: 100% ; color: white ;background-color: purple
+        ;}
+        h5{ color: white ;margin: 0px 0px 0px 570px;}
+        .lena { background-color: purple;}
+        .h6 { margin: 0px 0px 0px 610px; color: white;}
+       .footer { background-color:purple;
+        border:3px solid purple; 
+        display: flex ; justify-content: space-between;color: white; }
+        .tt {margin-top: 30px;}
+        .yy{margin-top: 30px;}
+        .hh{ margin-top: 20px; background-color: purple;}.html {width: 90%; background-color: #4CAF50;}
+        .container {
+            width: 100%;
+            background-color: #ddd;
+          }
+          
+          .skills {
+            text-align: right;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            color: white;
+          }
+          
+          .html {width: 90%; background-color: #4CAF50;color: white;}
+          .css {width: 80%; background-color: #2196F3;color: white;}
+          .js {width: 65%; background-color: #f44336;color: white;} 
+          .ee{color: white; margin: 0px 0px 0px 600px;}
+          .oo{color: white; margin: 0px 0px 0px 600px;}
+          .mm{color: white; margin: 0px 0px 0px 600px; }
+          .Statistique{color: white  ;
+            font-size: 40px; 
+            text-align: center;
+            margin-top: 100px;
+             background-color: purple;} 
+             .louta {margin-top: 30px;}
+             .mail { margin: 0px 35px 0px 0px;}
+             .localisation{margin: 0px 0px 0px 70px;}
+             .phone{ margin: 0px 0px 0px 65px;}
+             .ico{ https://icones8.fr/icon/49419/fl%C3%A8che-r%C3%A9duire ,margin: 0px 35px 0px 0px;}
+             
+          
+
+
